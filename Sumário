@@ -1,0 +1,42 @@
+1. Variáveis, Operadores aritméticos e lógicos
+	- Geral
+        - comentários
+        - regras e boas práticas (slide)
+        - case sensitive
+	- Variáveis
+	    - fracamente tipada
+	    - tipos: int, float, str, bool, complex, list, tuple, dict
+	    - declaração x atribuição, declaração múltipla
+	    - type casting
+	    - funções
+	        - type, isalpha, isnumeric, isalphanum
+	        - print :=^20, :.2f, end=''
+	        - manipulações de texto
+	- Operadores
+	    - +, -, /, *, %, **, //
+	    - incremento: +=, -=, etc
+	    - str * int (''= * 20')
+	    - &, | e not
+2. Estruturas condicionais
+    - identação
+	- if aninhandos
+	- operador ternário
+3. Estruturas de repetição
+	- while, for, do while
+	- break
+	- else for
+4. Collections (lista, etc)
+	- listas, tuplas, dicionários
+5. Métodos
+	- sobrecarga de métodos
+	- exceções
+6. OO
+	- atributos (propriedades, características)
+	- métodos (comportamentos, ações)
+	- encapsulamento, polimorfismo, herança
+7. Interação com BD
+	- conexão
+	- select, update delete
+	- query fixa, query variável
+8. Interação com arquivos
+	- leitura, escrita
