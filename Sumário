@@ -16,11 +16,12 @@
 	    - +, -, /, *, %, **, //
 	    - incremento: +=, -=, etc
 	    - str * int (''= * 20')
-	    - &, | e not
+	    - and, or e not
 2. Estruturas condicionais
     - identação
-	- if aninhandos
+	- if's aninhandos
 	- operador ternário
+	    a if expressão lógica else b
 3. Estruturas de repetição
 	- while, for, do while
 	- break
