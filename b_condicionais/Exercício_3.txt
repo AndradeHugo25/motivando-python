@@ -1,4 +1,4 @@
-2) Jogo da adivinhação:
+3) Jogo da adivinhação:
 
 - pc sorteia um número de 1 a 5
 - usuário entra com um número
