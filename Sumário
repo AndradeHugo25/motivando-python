@@ -24,10 +24,11 @@
 	- operador ternário
 	    a if expressão lógica else b
 3. Estruturas de repetição
-	- while, for, do while
-	- break
-	- else for
-4. Collections (lista, etc)
+	- while
+	- for (conjunto, range com 1, 2 e 3 params, string, enumerate (Tópico 4))
+	- else
+	- break, continue, pass
+4. Estruturas de dados
 	- listas, tuplas, dicionários
 5. Métodos
 	- sobrecarga de métodos
