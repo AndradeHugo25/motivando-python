@@ -3,6 +3,10 @@
         - comentários
         - regras e boas práticas (slide)
         - case sensitive
+        - print(f'Nome da {VARIAVEL} é esse')
+            # x = 'hugo'
+            # print(f'{x:=^20}')
+            # print('='*20)
 	- Variáveis
 	    - fracamente tipada
 	    - tipos: int, float, str, bool, complex, list, tuple, dict
@@ -15,7 +19,7 @@
 	- Operadores
 	    - +, -, /, *, %, **, //
 	    - incremento: +=, -=, etc
-	    - str * int (''= * 20')
+	    - str * int ('=' * 20)
 	    - and, or e not
 2. Estruturas condicionais
     - identação

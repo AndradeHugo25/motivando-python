@@ -1,7 +1,38 @@
+altura=float(input('Qual a altura da parede?'))
 
-x = 'hugo'
-print(f'{x:=^20}')
-print('='*20)
+largura=float(input('Qual a largura da parede?'))
+
+cobertura=float(input('Qual a cobertura da tinta?'))
+
+area=altura*largura
+
+tinta=area/cobertura
+
+
+print('O tamanho da parede é de {} metros quadrados e serão necessários {} litros de tinta'.format(area,tinta))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

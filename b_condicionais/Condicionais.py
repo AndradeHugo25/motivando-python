@@ -1,4 +1,4 @@
-# x = 1
+# x = 3
 # y = 2
 #
 # if 2 <= x <= 100:
@@ -11,5 +11,9 @@
 # else:
 #     print('Y está fora do intervalo')
 #
+# if x in range(1, 10, 2):
+#     print('VERDADE')
+# else:
+#     print('MENTIRA')
 #
-#
+# print('verdade' if x == 3 else 'mentira')
